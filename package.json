@@ -1,0 +1,19 @@
+{
+    "name": "tstest2",
+    "version": "1.0.0",
+    "main": "test.js",
+    "scripts": {
+
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^3.9.6"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "pradvi/testprojects/"
+    },
+    "description": ""
+}
